@@ -1,10 +1,7 @@
 {
   "name": "Website Importer",
   "description": "Import scraped website structures into Penpot as design elements",
-  "code": "./penpot-importer/plugin.js",
-  "icon": "./penpot-importer/icon.png",
-  "permissions": [
-    "content:read",
-    "content:write"
-  ]
+  "code": "plugin.js",
+  "icon": "icon.png",
+  "permissions": ["content:read", "content:write"]
 }
